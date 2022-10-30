@@ -3,8 +3,10 @@
 <body text="white">
     <header>
         <div class="first">
-            <img src="https://pngimg.com/uploads/welcome/welcome_PNG102.png"></img>
+        <pre>
+                                         <img src="https://pngimg.com/uploads/welcome/welcome_PNG102.png" alt="error" height="200vh" widht="200vw">
             <hr>
+            </pre>
         </div>
     </header>
     <main>
@@ -22,6 +24,13 @@
             <a href="https://www.youtube.com/watch?v=GoHDolSJxIQ" target="_blank"><img src="https://png2png.com/wp-content/uploads/2021/05/Icon-WhatsApp.png" alt="Error" height="100vh" width="100vw"></a>
         </div>
     </main>
+    <footer>
+    <div>
+    <b>
+    VAISHNO ©
+    </b>
+    </div>
+    </footer>
 
 </body>
 </html>
